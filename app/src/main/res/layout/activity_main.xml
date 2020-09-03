@@ -18,6 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/logText"
         android:textSize="26sp"
+        android:inputType="numberPassword"
         />
     <ImageView
         android:id="@+id/avatar"
